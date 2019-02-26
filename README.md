@@ -14,7 +14,7 @@ Portfolio of apps created as part of the coursework for completion of  [The Comp
 ### Clima
 ### Bitcoin Ticker
 ### Flash Chat
-### Todoey
+### [Todoey](https://github.com/tiannahenrylewis/iOSBootcampApps/tree/master/Todoey)
 ### SeeFood
 ### What Flower
 ### ARDicee
