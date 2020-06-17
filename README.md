@@ -11,7 +11,6 @@ Portfolio of apps created as part of the coursework for completion of  [The Comp
   The focus of these projects were to become familiar with the XCode IDE and the basic UI components of an iOS app.  
   
   **Screenshots**  
-  ![image](https://user-images.githubusercontent.com/40465736/82092281-f832ef00-96c6-11ea-8a91-e0aa1e199dd5.png)
   
   </p>
 </details>  
@@ -24,7 +23,9 @@ Portfolio of apps created as part of the coursework for completion of  [The Comp
     the screen or shake their phone and the dice on screen would present two random dice faces. This was an introduction into the
     basic core requirements of an iOS app.
     
-   **Screenshots**
+   **Screenshots**  
+   ![image](https://user-images.githubusercontent.com/40465736/82092281-f832ef00-96c6-11ea-8a91-e0aa1e199dd5.png)
+   
   </p>
 </details>  
 
