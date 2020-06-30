@@ -93,9 +93,15 @@ Portfolio of apps created as part of the coursework for completion of  [The Comp
 </details> 
 
 ### Flash Chat  
+
 ### [Todoey](https://github.com/tiannahenrylewis/iOSBootcampApps/tree/master/Todoey)  
+ 
 ### SeeFood  
+
 ### What Flower  
+
 ### ARDicee  
+
 ### PokemonAR Clone  
+
 ### ARRuler  
