@@ -8,7 +8,7 @@ Portfolio of apps created as part of the coursework for completion of  [The Comp
 <details>
   <summary>Project Info & Screenshots</summary>
   <p>
-  The focus of these projects were to become familiar with the XCode IDE and the basic UI components of an iOS app.  
+  The focus of these apps were to become familiar with the XCode IDE and the basic UI components of an iOS app.  
   
   **Screenshots**  
   
